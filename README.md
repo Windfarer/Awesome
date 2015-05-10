@@ -7,7 +7,7 @@ Collection of awesome stuff
 > [《黑客与画家》](http://book.douban.com/subject/6021440/) 传教书？
 
 ### Computer Science
-> [SICP](http://mitpress.mit.edu/sicp/) 时间黑洞，怎么填也填不完的坑
+> [SICP](http://mitpress.mit.edu/sicp/) 时间黑洞，怎么填也填不完的坑  
 > [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) 自从一不留神把这本书送人了，就想再弄一本= =
 
 ## Links
@@ -16,7 +16,7 @@ Collection of awesome stuff
 
 ## Games
 ### PC
-> [MineCraft](https://minecraft.net/) 一个人玩得很寂寞的游戏  
+> [MineCraft](https://minecraft.net/) 如果一个人玩，会很寂寞的游戏，推荐自己搭服务器找人一起玩  
 > [Mountain](http://store.steampowered.com/app/313340/) 不明觉厉的游（屏）戏（保），盯着一座山参禅  
 ### Mobile
 > [Ingress](https://www.ingress.com/) 能让宅男出去走走的最佳理由，流量杀手，蓝军大法好
