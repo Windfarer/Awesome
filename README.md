@@ -10,6 +10,7 @@ Collection of awesome stuff
 > [《SICP》](http://mitpress.mit.edu/sicp/) 时间黑洞，怎么填也填不完的坑  
 > [《鸟哥的Linux私房菜》](http://vbird.dic.ksu.edu.tw/) 自从一不留神把这本书送人了，就想再弄一本= =  
 > [Learn Code the Hard Way系列](http://learncodethehardway.org/)  神级编程教科书系列
+
 ## Links
 ### Python
 > [官方文档](https://docs.python.org/) 多读文档总是好的
@@ -19,6 +20,7 @@ Collection of awesome stuff
 > [Shadowsocks](https://github.com/shadowsocks/shadowsocks) 科学上网，提高生活品质  
 > [Karabiner](https://github.com/tekezo/Karabiner) Mac上的键盘键位映射工具
 > [Push to Kindle](http://fivefilters.org/kindle-it/) 用来将网页推送到kindle上的工具
+> [What Font](http://chengyinliu.com/whatfont.html) 用来看网页使用的字体的工具
 
 ## Games
 ### PC&MAC
