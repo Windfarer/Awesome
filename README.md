@@ -14,10 +14,11 @@ Collection of awesome stuff
 ### Python
 > [官方文档](https://docs.python.org/) 多读文档总是好的
 
-## Softwares
+## Tools
 > [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) Mac看文档神器  
 > [Shadowsocks](https://github.com/shadowsocks/shadowsocks) 科学上网，提高生活品质  
 > [Karabiner](https://github.com/tekezo/Karabiner) Mac上的键盘键位映射工具
+> [Push to Kindle](http://fivefilters.org/kindle-it/) 用来将网页推送到kindle上的工具
 
 ## Games
 ### PC&MAC
