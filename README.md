@@ -26,3 +26,6 @@ Collection of awesome stuff
 
 ### Mobile
 > [Ingress](https://www.ingress.com/) 能让宅男出去走走的最佳理由，流量杀手，蓝军大法好
+
+## Devices
+> [Kindle](http://www.amazon.cn/Kindle%E5%95%86%E5%BA%97/b/ref=topnav_storetab_kinc?ie=UTF8&node=116087071) 科技改变生活的典范
