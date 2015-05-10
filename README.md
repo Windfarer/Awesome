@@ -18,5 +18,6 @@ Collection of awesome stuff
 ### PC
 > [MineCraft](https://minecraft.net/) 如果一个人玩，会很寂寞的游戏，推荐自己搭服务器找人一起玩  
 > [Mountain](http://store.steampowered.com/app/313340/) 不明觉厉的游（屏）戏（保），盯着一座山参禅  
+
 ### Mobile
 > [Ingress](https://www.ingress.com/) 能让宅男出去走走的最佳理由，流量杀手，蓝军大法好
