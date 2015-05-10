@@ -8,8 +8,8 @@ Collection of awesome stuff
 
 ### Computer Science
 > [《SICP》](http://mitpress.mit.edu/sicp/) 时间黑洞，怎么填也填不完的坑  
-> [《鸟哥的Linux私房菜》](http://vbird.dic.ksu.edu.tw/) 自从一不留神把这本书送人了，就想再弄一本= =
-
+> [《鸟哥的Linux私房菜》](http://vbird.dic.ksu.edu.tw/) 自从一不留神把这本书送人了，就想再弄一本= =  
+> [Learn Code the Hard Way系列](http://learncodethehardway.org/)  神级编程教科书系列
 ## Links
 ### Python
 > [官方文档](https://docs.python.org/) 多读文档总是好的
