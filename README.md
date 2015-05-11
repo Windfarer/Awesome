@@ -23,6 +23,9 @@ Collection of awesome stuff
 > [What Font](http://chengyinliu.com/whatfont.html) 用来看网页使用的字体的工具  
 > [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
 
+## Input Method
+> 双拼输入法
+
 ## Games
 ### PC&MAC
 > [MineCraft](https://minecraft.net/) 如果一个人玩，会很寂寞的游戏，推荐自己搭服务器找人一起玩  
