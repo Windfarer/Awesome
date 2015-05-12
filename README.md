@@ -24,7 +24,7 @@ Collection of awesome stuff
 > [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
 
 ## Input Method
-> 双拼输入法
+> 双拼输入法 少按好多键
 
 ## Games
 ### PC&MAC
