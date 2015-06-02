@@ -12,7 +12,7 @@ Collection of awesome stuff
 > [Learn Code the Hard Way系列](http://learncodethehardway.org/)  神级编程教科书系列  
 
 ### Fiction
-> [《源泉》](http://book.douban.com/subject/1431870/) 
+> [《源泉》](http://book.douban.com/subject/1431870/) 讲述了一个杀马特非主流建筑师是如何与世界为敌的故事。
 
 ## Links
 ### Python
