@@ -25,7 +25,7 @@ Collection of awesome stuff
 > [Push to Kindle](http://fivefilters.org/kindle-it/) 用来将网页推送到kindle上的工具  
 > [What Font](http://chengyinliu.com/whatfont.html) 用来看网页使用的字体的工具  
 > [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
-
+> [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛
 ## Input Method
 > 双拼输入法 少按好多键
 
