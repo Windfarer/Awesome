@@ -1,4 +1,4 @@
-# Bookmarks
+# Awesome
 Collection of awesome stuff
 
 ## Books
@@ -8,17 +8,20 @@ Collection of awesome stuff
 
 ### Computer Science
 > [《SICP》](http://mitpress.mit.edu/sicp/) 时间黑洞，怎么填也填不完的坑  
-> [《鸟哥的Linux私房菜》](http://vbird.dic.ksu.edu.tw/) 自从一不留神把这本书送人了，就想再弄一本= =  
+> [CSAPP](http://book.douban.com/subject/5333562/) 书名翻译得烂系列，其实应该是：以程序员的视角，看计算机系统  
+> [《鸟哥的Linux私房菜》](http://vbird.dic.ksu.edu.tw/) 经典的linux入门书籍  
 > [Learn Code the Hard Way系列](http://learncodethehardway.org/)  神级编程教科书系列  
 
 ### Fiction
-> [《源泉》](http://book.douban.com/subject/1431870/) 讲述了一个杀马特非主流建筑师是如何与世界为敌的故事。
+> [《源泉》](http://book.douban.com/subject/1431870/) 讲述了一个杀马特非主流建筑师是如何与世界为敌的故事
 
 ## Links
 ### Python
-> [官方文档](https://docs.python.org/) 多读文档总是好的
+> [官方文档](https://docs.python.org/) 多读文档总是好的  
+> [Cheat Sheets](http://www.howindergg.com/)
 
 ## Tools
+> [Telegram](https://www.telegram.org/) 史上最棒的IM工具，没有之一  
 > [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) Mac看文档神器  
 > [Shadowsocks](https://github.com/shadowsocks/shadowsocks) 科学上网，提高生活品质  
 > [Karabiner](https://github.com/tekezo/Karabiner) Mac上的键盘键位映射工具  
@@ -26,13 +29,16 @@ Collection of awesome stuff
 > [What Font](http://chengyinliu.com/whatfont.html) 用来看网页使用的字体的工具  
 > [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
 > [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛
+
+
 ## Input Method
 > 双拼输入法 少按好多键
 
 ## Games
 ### PC&MAC
 > [MineCraft](https://minecraft.net/) 如果一个人玩，会很寂寞的游戏，推荐自己搭服务器找人一起玩  
-> [Mountain](http://store.steampowered.com/app/313340/) 不明觉厉的游（屏）戏（保），盯着一座山参禅  
+> [Kerbal Space Program](http://store.steampowered.com/app/220200) 小绿人宰人航天计划，航天是多么困难的一件事啊  
+> [Portal 2](http://store.steampowered.com/app/620/) 阀门厂的传送门系列，解谜游戏中的杰作  
 
 ### Mobile
 > [Ingress](https://www.ingress.com/) 能让宅男出去走走的最佳理由，流量杀手，蓝军大法好  
