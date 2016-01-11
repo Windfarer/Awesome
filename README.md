@@ -41,7 +41,7 @@ Collection of awesome stuff
 ### PC&MAC
 > [MineCraft](https://minecraft.net/) 如果一个人玩，会很寂寞的游戏，推荐自己搭服务器找人一起玩  
 > [Kerbal Space Program](http://store.steampowered.com/app/220200) 小绿人宰人航天计划，航天是多么困难的一件事啊  
-> [Portal 2](http://store.steampowered.com/app/620/) 阀门厂的传送门系列，解谜游戏中的杰作  
+> [Portal 2](http://store.steampowered.com/app/620/) 阀门厂的传送门系列，非常出色的解谜游戏    
 
 ### Mobile
 > [Ingress](https://www.ingress.com/) 能让宅男出去走走的最佳理由，流量杀手，蓝军大法好  
