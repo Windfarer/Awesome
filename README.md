@@ -35,8 +35,7 @@ Collection of awesome stuff
 
 
 ## Input Method
-> 双拼输入法 少按好多键
-
+> [Rime](http://rime.im/) 可定制性很强的输入法
 ## Games
 ### PC&MAC
 > [MineCraft](https://minecraft.net/) 如果一个人玩，会很寂寞的游戏，推荐自己搭服务器找人一起玩  
