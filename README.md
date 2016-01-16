@@ -26,13 +26,16 @@ Collection of awesome stuff
 > [Shadowsocks](https://github.com/shadowsocks/shadowsocks) 科学上网，提高生活品质  
 > [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) 加密DNS流量，进一步提高生活品质  
 > [Karabiner](https://github.com/tekezo/Karabiner) Mac上的键盘键位映射工具  
+> [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
+> [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛
+
+## Chrome Extensions
 > [Push to Kindle](http://fivefilters.org/kindle-it/) 用来将网页推送到kindle上的工具  
 > [What Font](http://chengyinliu.com/whatfont.html) 用来看网页使用的字体的浏览器插件   
 > [Wappalyzer](https://wappalyzer.com/) 用来看某个网站用了哪些技术的浏览器插件  
 > [Adblock Plus](https://adblockplus.org/) 屏蔽网页广告的浏览器插件  
-> [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
-> [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛
-
+> [octotree](https://github.com/buunguyen/octotree) 将Github Repo以树形结构展示  
+> [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/) 将Github Contribution图表以立体的形式展示 
 
 ## Input Method
 > [RIME](http://rime.im/) 可定制性很强的输入法
