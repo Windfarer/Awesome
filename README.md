@@ -51,3 +51,7 @@ Collection of awesome stuff
 
 ## Devices
 > [Kindle](http://www.amazon.cn/Kindle%E5%95%86%E5%BA%97/b/ref=topnav_storetab_kinc?ie=UTF8&node=116087071) 科技改变生活的典范  
+
+## Podcasts
+> [Teahour](http://teahour.fm/)   
+> [IPN](http://ipn.li/)   
