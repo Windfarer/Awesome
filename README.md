@@ -27,7 +27,7 @@ Collection of awesome stuff
 > [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) 加密DNS流量，进一步提高生活品质  
 > [Karabiner](https://github.com/tekezo/Karabiner) Mac上的键盘键位映射工具  
 > [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
-> [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛
+> [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛  
 > [RescueTime](https://www.rescuetime.com/dashboard) 用来统计在电脑&手机上的行为，看看自己的人生是怎么被浪费的
 
 ## Chrome Extensions
