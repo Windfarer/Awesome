@@ -20,6 +20,7 @@ Collection of awesome stuff
 > * [官方文档](https://docs.python.org/) 多读文档总是好的  
 > * [Python cheatsheet](https://www.pythonsheets.com/)
 > * [Python 搭车客指南](http://docs.python-guide.org/en/latest/)
+
 ## Tools
 > * [Telegram](https://www.telegram.org/) 史上最棒的IM工具，没有之一  
 > * [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) Mac看文档神器  
@@ -55,4 +56,5 @@ Collection of awesome stuff
 
 ## Podcasts
 > * [Teahour](http://teahour.fm/)   
-> * [IPN](http://ipn.li/)   
+> * [IPN](http://ipn.li/)   
+> * [机核电台 GADIO](http://www.g-cores.com/categories/9)
