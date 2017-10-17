@@ -29,7 +29,8 @@ Collection of awesome stuff
 > * [Karabiner](https://github.com/tekezo/Karabiner) Mac上的键盘键位映射工具  
 > * [MacDown](https://github.com/uranusjr/macdown) 开源的Mac平台Markdown编辑器  
 > * [f.lux](https://justgetflux.com/) 自动调节屏幕色温的神器，保护眼睛  
-> * [RescueTime](https://www.rescuetime.com/dashboard) 用来统计在电脑&手机上的行为，看看自己的人生是怎么被浪费的
+> * [RescueTime](https://www.rescuetime.com/dashboard) 用来统计在电脑&手机上的行为，看看自己的人生是怎么被浪费的  
+> * [FDM](https://www.freedownloadmanager.org/) 简单易用的文件下载工具，支持Windows和Mac系统  
 
 ## Chrome Extensions
 > * [Push to Kindle](http://fivefilters.org/kindle-it/) 用来将网页推送到kindle上的工具  
